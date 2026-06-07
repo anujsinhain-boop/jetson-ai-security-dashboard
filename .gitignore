@@ -1,13 +1,9 @@
-__pycache__/
-*.pyc
+*.bkp
+*.bkp1
+*.bak
 
 alerts/
 known_faces/
 
 *.engine
 *.onnx
-
-.env
-venv/
-
-*.log
