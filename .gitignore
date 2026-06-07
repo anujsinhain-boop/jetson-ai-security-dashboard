@@ -2,8 +2,9 @@
 *.bkp1
 *.bak
 
+*.pt
+*.onnx
+*.engine
+
 alerts/
 known_faces/
-
-*.engine
-*.onnx
