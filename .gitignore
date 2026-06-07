@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+alerts/
+known_faces/
+
+*.engine
+*.onnx
+
+.env
+venv/
+
+*.log
